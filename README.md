@@ -4,44 +4,44 @@ Below are the gifs showing the change in symptom importance over time as it both
 
 ## Out-degree
 
-## Participant 1: 
-![](https://github.com/mnemesure/Tracking_Depression_TV-Var-GIFS/blob/master/out-degree-gifs/Participant 1.gif)
+### Participant 1: 
+![](https://github.com/mnemesure/Tracking_Depression_TV-Var-GIFS/blob/master/out-degree-gifs/P1FINAL.gif)
 
 
-## Participant 2: 
-![](https://github.com/mnemesure/Tracking_Depression_TV-Var-GIFS/blob/master/out-degree-gifs/Participant 2.gif)
+### Participant 2: 
+![](https://github.com/mnemesure/Tracking_Depression_TV-Var-GIFS/blob/master/out-degree-gifs/P2FINAL.gif)
 
 
-## Participant 3: 
-![](https://github.com/mnemesure/Tracking_Depression_TV-Var-GIFS/blob/master/out-degree-gifs/Participant 3.gif)
+### Participant 3: 
+![](https://github.com/mnemesure/Tracking_Depression_TV-Var-GIFS/blob/master/out-degree-gifs/P3FINAL.gif)
 
 
-## Participant 4: 
-![](https://github.com/mnemesure/Tracking_Depression_TV-Var-GIFS/blob/master/out-degree-gifs/Participant 4.gif)
+### Participant 4: 
+![](https://github.com/mnemesure/Tracking_Depression_TV-Var-GIFS/blob/master/out-degree-gifs/P4FINAL.gif)
 
 
-## Participant 5: 
-![](https://github.com/mnemesure/Tracking_Depression_TV-Var-GIFS/blob/master/out-degree-gifs/Participant 5.gif)
+### Participant 5: 
+![](https://github.com/mnemesure/Tracking_Depression_TV-Var-GIFS/blob/master/out-degree-gifs/P5FINAL.gif)
 
 
 ## In-degree
 
 
-## Participant 1: 
+### Participant 1: 
 ![](https://github.com/mnemesure/Tracking_Depression_TV-Var-GIFS/blob/master/in-degree-gifs/P1FINAL.gif)
 
 
-## Participant 2: 
+### Participant 2: 
 ![](https://github.com/mnemesure/Tracking_Depression_TV-Var-GIFS/blob/master/in-degree-gifs/P2FINAL.gif)
 
 
-## Participant 3: 
+### Participant 3: 
 ![](https://github.com/mnemesure/Tracking_Depression_TV-Var-GIFS/blob/master/in-degree-gifs/P3FINAL.gif)
 
 
-## Participant 4: 
+### Participant 4: 
 ![](https://github.com/mnemesure/Tracking_Depression_TV-Var-GIFS/blob/master/in-degree-gifs/P4FINAL.gif)
 
 
-## Participant 5: 
+### Participant 5: 
 ![](https://github.com/mnemesure/Tracking_Depression_TV-Var-GIFS/blob/master/in-degree-gifs/P5FINAL.gif)
